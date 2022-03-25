@@ -9,5 +9,6 @@
 |  #  | Project                                                                                                                                  | Live Demo                                                |
 | :-: | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | 001 | [Full-Screen Image Slider](https://github.com/VinmayiSwamy/html-css-javascript-projects/tree/main/001-full%20screen%20image%20slider)         | [Live Demo](https://codepen.io/theCoderV/full/vYpxNqZ)  |
+| 001 | [Full-Screen Image Slider](https://github.com/VinmayiSwamy/html-css-javascript-projects/tree/main/002-expanding%20cards)         | [Live Demo](https://codepen.io/theCoderV/full/LYeWGqQ)  |
 
 This repository is for learning purpose only.
